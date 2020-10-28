@@ -1,0 +1,11 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "window.zoomLevel": 0,
+        "python.dataScience.jupyterServerURI": "local"
+    }
+}
